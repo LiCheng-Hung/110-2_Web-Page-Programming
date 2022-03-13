@@ -10,13 +10,23 @@
         margin:auto;
         text-align:center;
     }
+    .table tr{
+        border-width: 1px;
+        border-color: black;
+        border-style: solid;
+        border-collapse:collapse;
+    }
     .table th{
-        border:1px solid black;
-        border-spacing: 0px 0px;
+        border-width: 1px;
+        border-color: black;
+        border-style: solid;
+        border-collapse:collapse;
     }
     .table td{
-        border:1px solid black;
-        border-spacing: 0px 0px;
+        border-width: 1px;
+        border-color: black;
+        border-style: solid;
+        border-collapse:collapse;
     }
     
 </style>
